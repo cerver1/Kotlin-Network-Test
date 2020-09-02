@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin-Network-Test</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">disconnected</string>
+</resources>
